@@ -6,7 +6,7 @@
 - [Technologies Used](#technologies-used)
 
 ## Introduction
-JobPortal is a web application designed to simplify the job searching process. It provides various features such as filtering job listings, user authentication, job posting, editing, and management. The application offers a seamless user experience with pagination and a modern UI crafted using TailwindCSS. The backend is powered by Node.js, Express.js, and MongoDB, ensuring a robust and scalable platform.
+JobPortal is a web application designed to simplify the job searching process. It provides various features such as filtering job listings, user authentication, job posting, editing, and management. The application offers a seamless user experience with pagination and a modern UI crafted using TailwindCSS. The backend is powered by Node.js, Express.js, and MongoDB, ensuring a robust and scalable platform
 
 ## Features
 - Filter Job Listings: Filter job listings by title, location, posting time, and more.
